@@ -9,7 +9,7 @@ class test {
 	@Test
 	void test() {
 		fail("Not yet implemented");
-		System.out.print("Sadeeeeeee");
+		System.out.print("Sadeeee");
 	}
 
 }
